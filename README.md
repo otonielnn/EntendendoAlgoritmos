@@ -10,7 +10,7 @@ Olá, nesse repositório irei documentar os códigos do livro e exercícios most
 
 - 1 - Introdução a Algortimos ✅
 - 2 - Ordenação por Seleção ✅
-- 3 - Recursão
+- 3 - Recursão ✅
 - 4 - Quickort
 - 5 - Tabelas Hash
 - 6 - Pesquisa em Largura
