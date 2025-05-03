@@ -14,7 +14,7 @@ Olá, nesse repositório irei documentar os códigos do livro e exercícios most
 - 4 - Quickort ✅
 - 5 - Tabelas Hash ✅
 - 6 - Pesquisa em Largura ✅
-- 7 - Algoritmo de Dijkstra
+- 7 - Algoritmo de Dijkstra ✅
 - 8 - Algoritmos Gulosos
 - 9 - Programação Dinâmica
 - 10 - K-vizinhos mais próximos
