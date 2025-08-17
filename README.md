@@ -17,5 +17,5 @@ Olá, nesse repositório irei documentar os códigos do livro e exercícios most
 - 7 - Algoritmo de Dijkstra ✅
 - 8 - Algoritmos Gulosos ✅
 - 9 - Programação Dinâmica ✅
-- 10 - K-vizinhos mais próximos
-- 11 - Próximos passos
+- 10 - K-vizinhos mais próximos ✅
+- 11 - Próximos passos ✅
